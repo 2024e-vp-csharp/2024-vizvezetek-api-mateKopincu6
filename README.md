@@ -23,7 +23,7 @@ formátumban kell szolgáltatnia a Web API-nak:
 
 ```json
 {
-  "id": 1
+  "id": 1,
   "beadas_datum": "2001-05-28T00:00:00",
   "javitas_datum": "2001-05-31T00:00:00",
   "helyszin": "Kőváros, Harcsa u. 99.",
